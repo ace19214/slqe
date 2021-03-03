@@ -8,8 +8,9 @@ PyMySQL 0.9.3
 django-cors-headers 3.2.1
 ------
 
-- Setup Django to connect with MySQL Database:
-- Open project (cd capstone_project)
+-- Setup Django to connect with MySQL Database --
+
+- Open project
 
 - pip3 install djangorestframework (install django framework)
 
