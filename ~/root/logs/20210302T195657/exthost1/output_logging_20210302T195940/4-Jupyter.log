@@ -1,0 +1,24 @@
+Error 2021-03-02 19:59:40: Jupyter Extension (Error in Failed to update settings.json, method:fixSettingsFile): [EntryNotFound (FileSystemError): Unable to read file '/home/duydd3/Downloads/capstone_project/.vscode/settings.json' (Error: Unable to resolve non-existing file '/home/duydd3/Downloads/capstone_project/.vscode/settings.json')
+	at _handleError (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:86:136165)
+	at processTicksAndRejections (internal/process/task_queues.js:97:5)
+	at async m.readFile (/home/duydd3/.vscode/extensions/ms-toolsai.jupyter-2021.2.603412351/out/client/extension.js:49:865085)
+	at async g.fixSettingsFile (/home/duydd3/.vscode/extensions/ms-toolsai.jupyter-2021.2.603412351/out/client/extension.js:47:291567)
+	at async Promise.all (index 1)
+	at async g.updateSettings (/home/duydd3/.vscode/extensions/ms-toolsai.jupyter-2021.2.603412351/out/client/extension.js:47:293287)] {
+  code: 'FileNotFound'
+}
+Error 2021-03-02 19:59:40: Jupyter Extension (Error in Failed to update settings.json, method:fixSettingsFile): [EntryNotFound (FileSystemError): Unable to read file '/home/duydd3/.config/Code/User/settings.json' (Error: Unable to resolve non-existing file '/home/duydd3/.config/Code/User/settings.json')
+	at _handleError (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:86:136165)
+	at processTicksAndRejections (internal/process/task_queues.js:97:5)
+	at async m.readFile (/home/duydd3/.vscode/extensions/ms-toolsai.jupyter-2021.2.603412351/out/client/extension.js:49:865085)
+	at async g.fixSettingsFile (/home/duydd3/.vscode/extensions/ms-toolsai.jupyter-2021.2.603412351/out/client/extension.js:47:291567)
+	at async Promise.all (index 0)
+	at async g.updateSettings (/home/duydd3/.vscode/extensions/ms-toolsai.jupyter-2021.2.603412351/out/client/extension.js:47:293287)] {
+  code: 'FileNotFound'
+}
+> /usr/local/bin/python ~/.vscode/extensions/ms-toolsai.jupyter-2021.2.603412351/pythonFiles/pyvsc-run-isolated.py pip list
+> /usr/local/bin/python ~/.vscode/extensions/ms-toolsai.jupyter-2021.2.603412351/pythonFiles/pyvsc-run-isolated.py pip list
+> /usr/local/bin/python ~/.vscode/extensions/ms-toolsai.jupyter-2021.2.603412351/pythonFiles/pyvsc-run-isolated.py -c "import jupyter"
+> /usr/local/bin/python ~/.vscode/extensions/ms-toolsai.jupyter-2021.2.603412351/pythonFiles/pyvsc-run-isolated.py -c "import jupyter"
+> /usr/local/bin/python ~/.vscode/extensions/ms-toolsai.jupyter-2021.2.603412351/pythonFiles/pyvsc-run-isolated.py -c "import notebook"
+> /usr/local/bin/python ~/.vscode/extensions/ms-toolsai.jupyter-2021.2.603412351/pythonFiles/pyvsc-run-isolated.py -c "import notebook"
