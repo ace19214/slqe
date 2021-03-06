@@ -40,7 +40,8 @@
                             "items": [
                                 {
                                     "id": "workbench.action.reopenClosedEditor",
-                                    "label": "&&Reopen Closed Editor"
+                                    "label": "&&Reopen Closed Editor",
+                                    "enabled": false
                                 },
                                 {
                                     "id": "vscode.menubar.separator"
@@ -1466,7 +1467,7 @@
             "backupPath": "/home/duydd3/Downloads/capstone_project/~/root/Backups/0e59efb6836adeccf26ffc0116b4218b",
             "uiState": {
                 "mode": 0,
-                "x": 2467,
+                "x": 896,
                 "y": 321,
                 "width": 1024,
                 "height": 768

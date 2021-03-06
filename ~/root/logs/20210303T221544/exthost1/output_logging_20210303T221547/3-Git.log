@@ -1,0 +1,62 @@
+Looking for git in: git
+Using git 2.17.1 from git
+> git rev-parse --git-dir
+Open repository: /home/duydd3/Downloads/capstone_project
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/get-image refs/remotes/get-image
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :slqe/urls.py
+> git ls-files --stage -- /home/duydd3/Downloads/capstone_project/slqe/urls.py
+> git cat-file -s 85b29377edb84bf9e1f6ec75c0a35e0fa947558c
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/get-image refs/remotes/get-image
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :capstone_project/urls.py
+> git ls-files --stage -- /home/duydd3/Downloads/capstone_project/capstone_project/urls.py
+> git cat-file -s b01382f90b490deddeab5cc351cddc7a51504463
+> git show --textconv :slqe/models.py
+> git ls-files --stage -- /home/duydd3/Downloads/capstone_project/slqe/models.py
+> git cat-file -s ec08eb6c21abf36a6273f7d14773059e84c0bb81
+> git show --textconv :slqe/serializers.py
+> git ls-files --stage -- /home/duydd3/Downloads/capstone_project/slqe/serializers.py
+> git cat-file -s 414029e76f53c83cc0c1b3df2fed693545eb4a32
+> git show --textconv :slqe/models.py
+> git ls-files --stage -- /home/duydd3/Downloads/capstone_project/slqe/models.py
+> git cat-file -s ec08eb6c21abf36a6273f7d14773059e84c0bb81
+> git show --textconv :slqe/serializers.py
+> git ls-files --stage -- /home/duydd3/Downloads/capstone_project/slqe/serializers.py
+> git cat-file -s 414029e76f53c83cc0c1b3df2fed693545eb4a32
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/get-image refs/remotes/get-image
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :slqe/views.py
+> git ls-files --stage -- /home/duydd3/Downloads/capstone_project/slqe/views.py
+> git cat-file -s 11caee1cba917cf76f3f6b1e940b2c0ad14e27ab
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/get-image refs/remotes/get-image
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/get-image refs/remotes/get-image
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/get-image refs/remotes/get-image
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template

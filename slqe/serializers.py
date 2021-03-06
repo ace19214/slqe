@@ -1,5 +1,5 @@
 from rest_framework import serializers 
-from slqe.models import User
+from slqe.models import *
  
  
 class UserSerializer(serializers.ModelSerializer):
@@ -12,3 +12,11 @@ class UserSerializer(serializers.ModelSerializer):
                   'url',
                   'name',
                   'role')
+
+class ImageSerializer(serializers.ModelSerializer):
+ 
+    class Meta:
+        model = Image
+        fields = ('id',
+                  'user',
+                  'url')
