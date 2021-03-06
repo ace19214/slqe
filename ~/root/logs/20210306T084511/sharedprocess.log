@@ -1,0 +1,13 @@
+[2021-03-06 08:45:17.258] [sharedprocess] [info] Installing extension: ms-python.python
+[2021-03-06 08:45:24.122] [sharedprocess] [info] Downloaded extension: ms-python.python undefined
+[2021-03-06 08:45:27.720] [sharedprocess] [info] Extracted extension to /home/duydd3/.vscode/extensions/.ms-python.python-2021.2.625869727: ms-python.python
+[2021-03-06 08:45:27.721] [sharedprocess] [info] Renamed to /home/duydd3/.vscode/extensions/ms-python.python-2021.2.625869727
+[2021-03-06 08:45:27.728] [sharedprocess] [info] Installation completed. ms-python.python
+[2021-03-06 08:45:27.902] [sharedprocess] [info] Extensions installed successfully: ms-python.python
+[2021-03-06 08:45:55.043] [sharedprocess] [info] Starting to clean up unused language packs.
+[2021-03-06 08:50:06.894] [sharedprocess] [info] Installing extension: kiteco.kite
+[2021-03-06 08:50:08.711] [sharedprocess] [info] Downloaded extension: kiteco.kite undefined
+[2021-03-06 08:50:08.887] [sharedprocess] [info] Extracted extension to /home/duydd3/.vscode/extensions/.kiteco.kite-0.142.0: kiteco.kite
+[2021-03-06 08:50:08.887] [sharedprocess] [info] Renamed to /home/duydd3/.vscode/extensions/kiteco.kite-0.142.0
+[2021-03-06 08:50:08.888] [sharedprocess] [info] Installation completed. kiteco.kite
+[2021-03-06 08:50:08.898] [sharedprocess] [info] Extensions installed successfully: kiteco.kite
